@@ -49,7 +49,7 @@
   
   app.use(bodyParser.json());
   
-  // In-memory storage for todo items
+  
   let listOfToDos = [
     {
       title: 'Coding',
